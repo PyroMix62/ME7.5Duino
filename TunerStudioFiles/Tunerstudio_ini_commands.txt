@@ -1,0 +1,5 @@
+Bouton 			commandButton = "Reboot to system", cmdstm32reboot
+
+2780
+
+Calibration pedale ppsCal
